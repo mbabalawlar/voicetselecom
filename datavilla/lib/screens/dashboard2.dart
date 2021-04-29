@@ -108,7 +108,7 @@ class _DashboardState extends State<Dashboard> {
 
   _launchURL() async {
     const url =
-        'https://api.whatsapp.com/send?phone=2348034582329&text=hello%20clekkelcoms%20%20I%20av%20want%20%20to%20trade%20bitcoin/giftcrad';
+        'https://api.whatsapp.com/send?phone=2349031611147';
     if (await canLaunch(url)) {
       await launch(url);
     } else {

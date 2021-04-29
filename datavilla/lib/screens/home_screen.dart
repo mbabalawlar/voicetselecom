@@ -47,7 +47,7 @@ Future<void> share() async {
 
 _launchURL() async {
     const url =
-        'https://api.whatsapp.com/send?phone=2348033017003&text=hello%20clekkelcoms%20%20I%20av%20want%20%20to%20trade%20bitcoin/giftcrad';
+        'https://api.whatsapp.com/send?phone=2349031611147';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
@@ -59,14 +59,14 @@ Widget _social_Account() {
         return SpeedDial(
           animatedIcon: AnimatedIcons.menu_close,
           animatedIconTheme: IconThemeData(size: 22),
-          backgroundColor: Color(0xFF5788f1),
+          backgroundColor: Colors.indigo,
           visible: true,
           curve: Curves.bounceIn,
           children: [
                 // FAB 1
                 SpeedDialChild(
                 child: Icon(Icons.chat_sharp),
-                backgroundColor: Color(0xFF5788f1),
+                backgroundColor: Colors.indigo,
                 onTap: () {
                   _launchURL();
                 },
@@ -75,12 +75,12 @@ Widget _social_Account() {
                     fontWeight: FontWeight.w500,
                     color: Colors.white,
                     fontSize: 16.0),
-                labelBackgroundColor: Color(0xFF5788f1)),
+                labelBackgroundColor: Colors.indigo),
                 
 
                 SpeedDialChild(
                 child: Icon(Icons.chat_bubble),
-                backgroundColor: Color(0xFF5788f1),
+                backgroundColor: Colors.indigo,
                 onTap: () {
                  Navigator.of(context).pushNamed("/supportchat");
                   
@@ -90,11 +90,11 @@ Widget _social_Account() {
                     fontWeight: FontWeight.w500,
                     color: Colors.white,
                     fontSize: 16.0),
-                labelBackgroundColor: Color(0xFF5788f1)),
+                labelBackgroundColor: Colors.indigo),
                
                 SpeedDialChild(
                 child: Icon(Icons.share),
-                backgroundColor: Color(0xFF5788f1),
+                backgroundColor: Colors.indigo,
                 onTap: () {
                   share();
                 },
@@ -103,7 +103,7 @@ Widget _social_Account() {
                     fontWeight: FontWeight.w500,
                     color: Colors.white,
                     fontSize: 16.0),
-                labelBackgroundColor: Color(0xFF5788f1))
+                labelBackgroundColor: Colors.indigo)
           ],
         );
   }

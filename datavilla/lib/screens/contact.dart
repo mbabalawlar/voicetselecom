@@ -104,7 +104,7 @@ class _ContactPageState extends State<ContactPage> {
                       ),
                       ListTile(
                         title: Text(
-                          "Customer care: +2348146319528",
+                          "Customer care: +2349031611147",
                           style: TextStyle(
                               color: Colors.indigo[900],
                               fontWeight: FontWeight.bold,
@@ -118,7 +118,7 @@ class _ContactPageState extends State<ContactPage> {
                       ),
                       ListTile(
                         title: Text(
-                          "Whatsapp: : +2348146319528",
+                          "Whatsapp: : +2349031611147",
                           style: TextStyle(
                               color: Colors.indigo[900],
                               fontWeight: FontWeight.bold,
