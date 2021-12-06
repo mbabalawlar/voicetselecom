@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/font/oxygen_light.ttf",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/font/oxygen_light.ttf"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/font/circular_std.otf",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/font/circular_std.otf"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/font/oxygen_bold.ttf",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/font/oxygen_bold.ttf"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/font/oxygen_regular.ttf",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/font/oxygen_regular.ttf"
+    }
+]

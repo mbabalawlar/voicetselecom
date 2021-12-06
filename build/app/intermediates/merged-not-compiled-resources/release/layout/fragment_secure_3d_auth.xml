@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/monnifyWhite"
+	android:clickable="true"
+	android:focusable="true"
+	android:focusableInTouchMode="true"
+	tools:context=".module.view.fragment.Secure3DAuthenticationFragment">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/backButtonRootView"
+		android:layout_width="0dp"
+		android:layout_height="60dp"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintTop_toTopOf="parent">
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/tv_inner_back_button"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:drawablePadding="@dimen/default_margin"
+			android:fontFamily="@font/oxygen_bold"
+			android:text="@string/back"
+			android:textColor="@color/monnifyBlack"
+			android:textSize="@dimen/normal_text_size"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/testModeIndicator"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="4dp"
+			android:layout_marginLeft="4dp"
+			android:background="@drawable/textview_yellow_rounded_corners"
+			android:fontFamily="@font/oxygen_bold"
+			android:gravity="center"
+			android:paddingStart="8dp"
+			android:paddingTop="2dp"
+			android:paddingEnd="8dp"
+			android:paddingBottom="2dp"
+			android:text="@string/test_mode"
+			android:textColor="@color/monnifyBlack"
+			android:textSize="@dimen/regular_text_size"
+			android:visibility="gone"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			tools:visibility="visible" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<com.teamapt.monnify.sdk.customview.ErrorTextView
+		android:id="@+id/errorTextView"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="16dp"
+		android:visibility="gone"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/backButtonRootView"
+		tools:text="Could not validate OTP. Please try again"
+		tools:visibility="visible"/>
+
+	<androidx.appcompat.widget.AppCompatTextView
+		android:id="@+id/textView"
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_marginStart="24dp"
+		android:layout_marginTop="16dp"
+		android:layout_marginEnd="24dp"
+		android:fontFamily="@font/oxygen_regular"
+		android:gravity="center"
+		android:text="@string/secure_threed_message"
+		android:textColor="@color/inputTextColorBlack"
+		android:textSize="@dimen/regular_text_size"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/errorTextView" />
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/webViewContainer"
+		android:layout_width="0dp"
+		android:layout_height="320dp"
+		android:background="?android:colorBackground"
+		android:clickable="true"
+		android:focusable="true"
+		android:focusableInTouchMode="true"
+		android:layout_marginTop="16dp"
+		android:paddingBottom="24dp"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintHorizontal_bias="1.0"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toBottomOf="@id/textView">
+
+		<ProgressBar
+			android:id="@+id/webViewProgressBar"
+			style="@android:style/Widget.ProgressBar.Horizontal"
+			android:layout_width="0dp"
+			android:layout_height="4dp"
+			android:max="100"
+			android:maxHeight="4dp"
+			android:minHeight="4dp"
+			android:progressDrawable="@drawable/progress_drawable_color"
+			android:visibility="gone"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toTopOf="parent"
+			tools:visibility="visible" />
+
+		<com.teamapt.monnify.sdk.customview.TouchableWebView
+			android:id="@+id/webView"
+			android:layout_width="0dp"
+			android:layout_height="0dp"
+			app:layout_constraintBottom_toBottomOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintTop_toBottomOf="@id/webViewProgressBar" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

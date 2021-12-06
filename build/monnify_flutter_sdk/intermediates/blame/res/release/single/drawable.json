@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/otp_description_textview_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/otp_description_textview_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_copy.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_transaction_failed_icon.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_transaction_failed_icon.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_chevron_right_orange.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_chevron_right_orange.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_verve.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_verve.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_black.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/textview_yellow_rounded_corners.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/textview_yellow_rounded_corners.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_monnify_ghost_logo.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_monnify_ghost_logo.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_grey_rounded_border.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_grey_rounded_border.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_chevron_left_green.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_chevron_left_green.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/progress_drawable_color.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/progress_drawable_color.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_arrow_down_grey.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_arrow_down_grey.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_photo_placeholder.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_photo_placeholder.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_mastercard_logo.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_mastercard_logo.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_tick_orange.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_tick_orange.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_visa.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_visa.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_qr_code.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_qr_code.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_bank_transfer.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_bank_transfer.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_back.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_back.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_jcb.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_jcb.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_light_green_circle.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_light_green_circle.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_rounded_white_edit_text.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_rounded_white_edit_text.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_transaction_successful_icon.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_transaction_successful_icon.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_error.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_error.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_transaction_success_green.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_transaction_success_green.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_mtrl_chip_close_circle.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_card_payment.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_card_payment.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_default_merchant_logo.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_default_merchant_logo.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_close.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_error_message.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_error_message.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_diners.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_diners.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_rounded_light_blue_border.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_rounded_light_blue_border.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_discover.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_discover.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_info.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_info.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/mtrl_tabs_default_indicator.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/mtrl_tabs_default_indicator.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_white_rounded_border.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_white_rounded_border.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/mtrl_snackbar_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/mtrl_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/tooltip_frame_light.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_list_divider_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_mtrl_chip_checked_circle.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/78b13cad706e44074661ec2e14b34b30/material-1.0.0/res/drawable/ic_mtrl_chip_checked_circle.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_warning.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/form_button_selector.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/form_button_selector.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/ic_amex.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/ic_amex.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/background_white_circle.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/res/drawable/background_white_circle.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3de7a3b5678689bffbeefefb4c94f727/appcompat-1.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    }
+]

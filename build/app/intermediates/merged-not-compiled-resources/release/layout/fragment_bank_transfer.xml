@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/monnifyWhite"
+    android:clickable="true"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:paddingBottom="12dp"
+    tools:context=".module.view.fragment.BankTransferFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/backButtonRootView"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:background="@color/monnifyWhite"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_inner_back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="@dimen/default_margin"
+            android:fontFamily="@font/oxygen_bold"
+            android:text="@string/back"
+            android:textColor="@color/monnifyBlack"
+            android:textSize="@dimen/normal_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/testModeIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:layout_marginLeft="4dp"
+            android:background="@drawable/textview_yellow_rounded_corners"
+            android:fontFamily="@font/oxygen_bold"
+            android:gravity="center"
+            android:paddingStart="8dp"
+            android:paddingTop="2dp"
+            android:paddingEnd="8dp"
+            android:paddingBottom="2dp"
+            android:text="@string/test_mode"
+            android:textColor="@color/monnifyBlack"
+            android:textSize="@dimen/regular_text_size"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:visibility="visible" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.teamapt.monnify.sdk.customview.ErrorTextView
+        android:id="@+id/errorTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/backButtonRootView"
+        tools:text="Could not validate OTP. Please try again"
+        tools:visibility="visible" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/textView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/oxygen_regular"
+        android:gravity="center"
+        android:text="@string/bank_transfer_message"
+        android:textColor="@color/inputTextColorBlack"
+        android:textSize="@dimen/regular_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/errorTextView" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="12dp"
+            android:fontFamily="@font/oxygen_regular"
+            android:gravity="center"
+            android:text="@string/account_number"
+            android:textColor="@color/inputTextColorBlack"
+            android:textSize="@dimen/regular_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.teamapt.monnify.sdk.customview.CircularProgressBar
+            android:id="@+id/transaction_countdown_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/monnifyBlack"
+            android:textSize="12sp"
+            app:bgColor="@color/monnifyGray"
+            app:bgStrokeWidth="3dp"
+            app:diameter="45dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/textView10"
+            app:max="100"
+            app:progressColor="@color/monnifyOrange"
+            app:progressStrokeWidth="4dp"
+            app:showText="true" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/accountNumberTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="6dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:fontFamily="@font/oxygen_bold"
+            android:gravity="center"
+            android:textColor="@color/monnifyLightBlue"
+            android:textIsSelectable="true"
+            android:textSize="@dimen/headline_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textView10" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="12dp"
+            android:fontFamily="@font/oxygen_regular"
+            android:gravity="center"
+            android:text="@string/bank"
+            android:textColor="@color/inputTextColorBlack"
+            android:textSize="@dimen/regular_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/accountNumberTextView" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/bankNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="6dp"
+            android:fontFamily="@font/oxygen_bold"
+            android:gravity="center"
+            android:textColor="@color/monnifyBlack"
+            android:textSize="@dimen/normal_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textView12" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="12dp"
+            android:fontFamily="@font/oxygen_regular"
+            android:gravity="center"
+            android:text="@string/name"
+            android:textColor="@color/inputTextColorBlack"
+            android:textSize="@dimen/regular_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/bankNameTextView" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/merchantNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="6dp"
+            android:fontFamily="@font/oxygen_bold"
+            android:gravity="center"
+            android:textColor="@color/monnifyBlack"
+            android:textSize="@dimen/normal_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/textView13" />
+
+        <View
+            android:id="@+id/lineView"
+            android:layout_width="match_parent"
+            android:layout_height="0.6dp"
+            android:layout_marginTop="16dp"
+            android:background="@color/monnifyLineColor"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/merchantNameTextView" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/payViaUSSDButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@null"
+            android:fontFamily="@font/oxygen_bold"
+            android:text="@string/pay_via_ussd"
+            android:textColor="@color/monnifyLightBlue"
+            android:textSize="@dimen/normal_text_size"
+            android:visibility="visible"
+            app:layout_constraintBottom_toTopOf="@+id/banksDropDownView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/lineView"
+            tools:visibility="visible" />
+
+        <com.teamapt.monnify.sdk.customview.MonnifyDropDownView
+            android:id="@+id/banksDropDownView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/payViaUSSDButton"
+            tools:visibility="visible" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:id="@+id/tapToCopyLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:clickable="true"
+            android:focusable="true"
+            tools:visibility="visible"
+            app:layout_constraintTop_toBottomOf="@id/banksDropDownView"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/dialThisCodeTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="12dp"
+                android:fontFamily="@font/oxygen_bold"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="@string/dial_this_code"
+                android:textColor="@color/inputTextColorBlack"
+                android:textSize="@dimen/normal_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/banksDropDownView" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/shortCodeTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginRight="16dp"
+                android:fontFamily="@font/oxygen_bold"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textColor="@color/monnifyLightBlue"
+                android:textIsSelectable="true"
+                android:textSize="@dimen/normal_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/dialThisCodeTextView"
+                tools:text="*737*48757577575#"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/dialUssdTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="16dp"
+            android:padding="8dp"
+            android:fontFamily="@font/oxygen_bold"
+            android:gravity="center"
+            android:text="@string/dial_code"
+            android:background="@drawable/background_rounded_light_blue_border"
+            android:textColor="@color/monnifyLightBlue"
+            android:textSize="@dimen/normal_text_size"
+            android:textAllCaps="true"
+            android:visibility="gone"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tapToCopyLayout"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:visibility="visible" />
+
+        <androidx.constraintlayout.widget.Group
+            android:id="@+id/dialCodeGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:constraint_referenced_ids="dialUssdTextView,tapToCopyLayout"
+            tools:visibility="visible" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.teamapt.monnify.sdk.customview.RoundedOrangeGradientButton
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rounded_orange_gradient_button_height"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:text="@string/checking_transaction_status"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/constraintLayout"
+        tools:visibility="visible" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

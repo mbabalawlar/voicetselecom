@@ -1,0 +1,131 @@
+PODS:
+  - Alamofire (5.4.2)
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - flutter_file_dialog (0.0.1):
+    - Flutter
+  - flutter_html_to_pdf (0.0.1):
+    - Flutter
+  - flutter_inappwebview (0.0.1):
+    - Flutter
+  - flutter_native_contact_picker (0.0.1):
+    - Flutter
+  - flutter_paystack (0.0.1):
+    - Flutter
+  - flutter_share (0.0.1):
+    - Flutter
+  - image_picker (0.0.1):
+    - Flutter
+  - IQKeyboardManagerSwift (6.5.6)
+  - local_auth (0.0.1):
+    - Flutter
+  - monnify_flutter_sdk (1.0.0):
+    - Flutter
+    - MonnifyiOSSDK (~> 0.1.8)
+  - MonnifyiOSSDK (0.1.9):
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - StompClientLib
+    - SwiftyJSON
+  - open_mail_app (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - SocketRocket (0.5.1)
+  - StompClientLib (1.4.1):
+    - SocketRocket
+  - SwiftyJSON (5.0.1)
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_file_dialog (from `.symlinks/plugins/flutter_file_dialog/ios`)
+  - flutter_html_to_pdf (from `.symlinks/plugins/flutter_html_to_pdf/ios`)
+  - flutter_inappwebview (from `.symlinks/plugins/flutter_inappwebview/ios`)
+  - flutter_native_contact_picker (from `.symlinks/plugins/flutter_native_contact_picker/ios`)
+  - flutter_paystack (from `.symlinks/plugins/flutter_paystack/ios`)
+  - flutter_share (from `.symlinks/plugins/flutter_share/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - local_auth (from `.symlinks/plugins/local_auth/ios`)
+  - monnify_flutter_sdk (from `.symlinks/plugins/monnify_flutter_sdk/ios`)
+  - open_mail_app (from `.symlinks/plugins/open_mail_app/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MonnifyiOSSDK
+    - Reachability
+    - SocketRocket
+    - StompClientLib
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  Flutter:
+    :path: Flutter
+  flutter_file_dialog:
+    :path: ".symlinks/plugins/flutter_file_dialog/ios"
+  flutter_html_to_pdf:
+    :path: ".symlinks/plugins/flutter_html_to_pdf/ios"
+  flutter_inappwebview:
+    :path: ".symlinks/plugins/flutter_inappwebview/ios"
+  flutter_native_contact_picker:
+    :path: ".symlinks/plugins/flutter_native_contact_picker/ios"
+  flutter_paystack:
+    :path: ".symlinks/plugins/flutter_paystack/ios"
+  flutter_share:
+    :path: ".symlinks/plugins/flutter_share/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  local_auth:
+    :path: ".symlinks/plugins/local_auth/ios"
+  monnify_flutter_sdk:
+    :path: ".symlinks/plugins/monnify_flutter_sdk/ios"
+  open_mail_app:
+    :path: ".symlinks/plugins/open_mail_app/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_file_dialog: 34ab8c55c460c69cb70e75a8d74bfe8b5c852824
+  flutter_html_to_pdf: 0fd9f8d04f335d68b06a7c4ab5fc85d22e1ef91b
+  flutter_inappwebview: 69dfbac46157b336ffbec19ca6dfd4638c7bf189
+  flutter_native_contact_picker: bd430ba0fbf82768bb50c2c52a69a65759a8f907
+  flutter_paystack: 50021637b71e7712780744f69d2843e71b65175d
+  flutter_share: 4be0208963c60b537e6255ed2ce1faae61cd9ac2
+  image_picker: e3eacd46b94694dde7cf2705955cece853aa1a8f
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  local_auth: 25938960984c3a7f6e3253e3f8d962fdd16852bd
+  monnify_flutter_sdk: 061e459217824aff0672c68f33eb4b263ddcd78c
+  MonnifyiOSSDK: c23a8211335793e8168f0f87e315bf624c6e9f3b
+  open_mail_app: 794172f6a22cd16319d3ddaf45e945b2f74952b0
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  StompClientLib: ac40390e9660c574675f1c933bec81c8e2811a4f
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+
+PODFILE CHECKSUM: a5d6799b652f4a5ad31ef75066902c74e261baf1
+
+COCOAPODS: 1.10.1

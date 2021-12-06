@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/960364e3ea910236339fa08f3aaa786b/core-1.1.0/res/layout/custom_dialog.xml"
+    }
+]

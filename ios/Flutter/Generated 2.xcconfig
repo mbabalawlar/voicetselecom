@@ -1,0 +1,12 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/msorg_developers/flutter_development/flutter
+FLUTTER_APPLICATION_PATH=/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/Drockno1data
+FLUTTER_TARGET=/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/Drockno1data/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_BUILD_NAME=7.0.0
+FLUTTER_BUILD_NUMBER=7
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/Drockno1data/.dart_tool/package_config.json
