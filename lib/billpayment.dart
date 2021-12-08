@@ -81,7 +81,7 @@ class _ElectPaymentState extends State<ElectPayment> {
       String url =
           'https://www.Bardetech.com/api/validatemeter?meternumber=$meter&&disconame=$id&&mtype=$mtype';
       print(url);
-      Response response = await get(url);
+      Response response = await get(Uri.parse(url));
 
       print(response.body);
 
@@ -165,7 +165,7 @@ class _ElectPaymentState extends State<ElectPayment> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/billpayment/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

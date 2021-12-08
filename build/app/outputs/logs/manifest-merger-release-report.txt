@@ -7,26 +7,26 @@ INJECTED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDo
 MERGED from [:in_app_update] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/in_app_update/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_html_to_pdf] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_html_to_pdf/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:local_auth] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
 MERGED from [:flutter_plugin_android_lifecycle] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_file_dialog] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_file_dialog/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:open_mail_app] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/open_mail_app/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
 MERGED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
-MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-29:12
 MERGED from [:flutter_share] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_share/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
 MERGED from [:shared_preferences] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [:monnify_flutter_sdk] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
 MERGED from [:flutter_native_contact_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_native_contact_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:2:1-22:12
-MERGED from [androidx.browser:browser:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/8363809abb561ca5825b1637ed2b28f1/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/32332bfa4206049340cab3ea7b35c67b/browser-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/108dc3619b289bd35bc4393f2d128414/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:2:1-19:12
 MERGED from [androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ac1ac278e0374e70db4cf49dd4f668be/constraintlayout-2.0.0-beta7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.4.0-alpha01] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/523bd576509d26dcb735a32901d705a4/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.airbnb.android:lottie:2.7.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/94995987e0a6abf1d00e6b9a04acf22e/jetified-lottie-2.7.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.tomergoldst.android:tooltips:1.0.10] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/22a985943c0bae278c2ee32789f15627/jetified-tooltips-1.0.10/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -34,42 +34,42 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/msorg_developers/.grad
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2a06d81778e1fecbbe9653696834d780/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2f510f6fa7219f61942c04f8cdf99038/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.fragment:fragment:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1de814c95dd2bb0852f0b4347fa27bc1/fragment-1.3.2/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.webkit:webkit:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7650bdeee108694ed84595287fbb175d/webkit-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7492615563744833edc5e6056c2679e4/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ab48317bf0168597862a6a34b744ea3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/484ba601451315836a5cd710e98ecb93/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0fb07333a769aae61644beeb6b3a2ba1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/83a080ca15e7e1bd1b1cea066da6ae4d/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2bac7a81c35d05a2739538c407d9b0f6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5bb9af1325d8e130186ff1018339309f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dabc689c3631b51957cc248d1978a0db/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/c2d9296c7dd77f04cb8968c722ceac39/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/17cfb705be70e13d49a2a270809eb6c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ff90103489c342ddbd7db45ec08349e6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1306ad93178456416f09b390f06879dd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f71a562017c6c33323da26f51d004a25/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/d92b0a8494c37e5b2f6b45ab1aa99b1b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.media:media:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/fe16b5d5e4c9330f39f80e3a25d92c11/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/79b52da571c276cdfb49822acc94599d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ecd0cb64c245bd611482c79b9055f92/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/65a973c5e42e2f6a898338ba8743ea2b/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0fb6de08082e40eddde759b0ac123712/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5a47f10d411e00354d7111b8cd11f174/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/21168f17838743b315d6eb62d2090bb7/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f2c08a1dbea192dd8a6ccefe66015f21/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/4fe864e5fb28266933069e1143ff4689/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1cfb6917c676ff2dd06372afb578eb1f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/feef2a1c5adc2b8b0d7e71e5c65b480b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/45dfd598dcd5d4e64faafcbec0721140/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0751ba1bc174bd9c95b2d3a50efb93d3/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dc739c4bf3039d4a659df80c21d5e2a7/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f44518a77cd916614949fae34f788c94/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3ffad5a67f20a2721860747708089a0c/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1afa11f5eb82ef0c542dfa7df8044935/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/afb1e36826f912c12358fdcf4ed61f98/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/8b3336b39e16ee3a8ed33fe96752513f/print-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -114,6 +114,8 @@ queries
 ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:12:1-25:11
 MERGED from [:open_mail_app] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/open_mail_app/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:15
 MERGED from [:open_mail_app] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/open_mail_app/intermediates/library_manifest/release/AndroidManifest.xml:7:5-13:15
+MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
+MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-11:15
 intent
 ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:13:5-16:14
 action#android.intent.action.VIEW
@@ -128,22 +130,22 @@ ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/
 		ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:23:15-37
 application
 ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:28:5-68:19
+MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
 MERGED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
 MERGED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
-MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
-MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:5-27:19
 MERGED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:9:5-13:19
 MERGED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:9:5-13:19
-MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
-MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:14:5-20:19
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:14:5-20:19
 MERGED from [com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:10:3-17:17
 MERGED from [com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:10:3-17:17
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ac1ac278e0374e70db4cf49dd4f668be/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ac1ac278e0374e70db4cf49dd4f668be/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.4.0-alpha01] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-alpha01] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/523bd576509d26dcb735a32901d705a4/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/523bd576509d26dcb735a32901d705a4/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
 MERGED from [com.airbnb.android:lottie:2.7.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/94995987e0a6abf1d00e6b9a04acf22e/jetified-lottie-2.7.0/AndroidManifest.xml:11:5-20
 MERGED from [com.airbnb.android:lottie:2.7.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/94995987e0a6abf1d00e6b9a04acf22e/jetified-lottie-2.7.0/AndroidManifest.xml:11:5-20
 MERGED from [com.tomergoldst.android:tooltips:1.0.10] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/22a985943c0bae278c2ee32789f15627/jetified-tooltips-1.0.10/AndroidManifest.xml:11:5-20
@@ -152,10 +154,10 @@ MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/msorg_develop
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2f510f6fa7219f61942c04f8cdf99038/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
 MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
 	android:appComponentFactory
@@ -218,6 +220,8 @@ MERGED from [:flutter_html_to_pdf] /Users/msorg_developers/Library/Mobile Docume
 MERGED from [:flutter_html_to_pdf] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_html_to_pdf/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:local_auth] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:local_auth] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/local_auth/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_file_dialog] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_file_dialog/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
@@ -240,24 +244,22 @@ MERGED from [:shared_preferences] /Users/msorg_developers/Library/Mobile Documen
 MERGED from [:shared_preferences] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:monnify_flutter_sdk] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:monnify_flutter_sdk] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/monnify_flutter_sdk/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_native_contact_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_native_contact_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_native_contact_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_native_contact_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:7:5-9:41
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.browser:browser:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/8363809abb561ca5825b1637ed2b28f1/browser-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.browser:browser:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/8363809abb561ca5825b1637ed2b28f1/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/32332bfa4206049340cab3ea7b35c67b/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/32332bfa4206049340cab3ea7b35c67b/browser-1.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/108dc3619b289bd35bc4393f2d128414/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/108dc3619b289bd35bc4393f2d128414/multidex-2.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:4:3-70
 MERGED from [com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:4:3-70
 MERGED from [androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.3.0-alpha02] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ac1ac278e0374e70db4cf49dd4f668be/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ac1ac278e0374e70db4cf49dd4f668be/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0-alpha01] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-alpha01] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/523bd576509d26dcb735a32901d705a4/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/523bd576509d26dcb735a32901d705a4/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
 MERGED from [com.airbnb.android:lottie:2.7.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/94995987e0a6abf1d00e6b9a04acf22e/jetified-lottie-2.7.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.airbnb.android:lottie:2.7.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/94995987e0a6abf1d00e6b9a04acf22e/jetified-lottie-2.7.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.tomergoldst.android:tooltips:1.0.10] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/22a985943c0bae278c2ee32789f15627/jetified-tooltips-1.0.10/AndroidManifest.xml:7:5-9:41
@@ -272,12 +274,14 @@ MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/msorg_develop
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2f510f6fa7219f61942c04f8cdf99038/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1de814c95dd2bb0852f0b4347fa27bc1/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1de814c95dd2bb0852f0b4347fa27bc1/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.webkit:webkit:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7650bdeee108694ed84595287fbb175d/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.webkit:webkit:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7650bdeee108694ed84595287fbb175d/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7492615563744833edc5e6056c2679e4/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7492615563744833edc5e6056c2679e4/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ab48317bf0168597862a6a34b744ea3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ab48317bf0168597862a6a34b744ea3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/484ba601451315836a5cd710e98ecb93/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/484ba601451315836a5cd710e98ecb93/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/cfdf7d4250bd369ccd1ded372fef6e53/jetified-activity-1.2.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0fb07333a769aae61644beeb6b3a2ba1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0fb07333a769aae61644beeb6b3a2ba1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/83a080ca15e7e1bd1b1cea066da6ae4d/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
@@ -286,18 +290,18 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/msorg_devel
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/2bac7a81c35d05a2739538c407d9b0f6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5bb9af1325d8e130186ff1018339309f/loader-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5bb9af1325d8e130186ff1018339309f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dabc689c3631b51957cc248d1978a0db/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dabc689c3631b51957cc248d1978a0db/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/c2d9296c7dd77f04cb8968c722ceac39/transition-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.transition:transition:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/c2d9296c7dd77f04cb8968c722ceac39/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/5574f7bb6dc6daf087186709b909ba97/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/17cfb705be70e13d49a2a270809eb6c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/17cfb705be70e13d49a2a270809eb6c3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ff90103489c342ddbd7db45ec08349e6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/ff90103489c342ddbd7db45ec08349e6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/57ee8e09e980270b268e77164d4d2e32/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1306ad93178456416f09b390f06879dd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1306ad93178456416f09b390f06879dd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f71a562017c6c33323da26f51d004a25/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -306,12 +310,14 @@ MERGED from [androidx.customview:customview:1.0.0] /Users/msorg_developers/.grad
 MERGED from [androidx.customview:customview:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/d92b0a8494c37e5b2f6b45ab1aa99b1b/customview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/fe16b5d5e4c9330f39f80e3a25d92c11/media-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.media:media:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/fe16b5d5e4c9330f39f80e3a25d92c11/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/79b52da571c276cdfb49822acc94599d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/79b52da571c276cdfb49822acc94599d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ecd0cb64c245bd611482c79b9055f92/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/6ecd0cb64c245bd611482c79b9055f92/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/65a973c5e42e2f6a898338ba8743ea2b/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/65a973c5e42e2f6a898338ba8743ea2b/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b772ffc02f06b06592eb35f5b2456900/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0fb6de08082e40eddde759b0ac123712/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
@@ -322,10 +328,10 @@ MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/msorg_developers/.grad
 MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/21168f17838743b315d6eb62d2090bb7/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f2c08a1dbea192dd8a6ccefe66015f21/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f2c08a1dbea192dd8a6ccefe66015f21/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/4fe864e5fb28266933069e1143ff4689/cardview-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/4fe864e5fb28266933069e1143ff4689/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
-MERGED from [com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1cfb6917c676ff2dd06372afb578eb1f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1cfb6917c676ff2dd06372afb578eb1f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/feef2a1c5adc2b8b0d7e71e5c65b480b/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
@@ -338,12 +344,8 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/msorg_developers
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/0751ba1bc174bd9c95b2d3a50efb93d3/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dc739c4bf3039d4a659df80c21d5e2a7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dc739c4bf3039d4a659df80c21d5e2a7/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/dcd618944337e463d00d5f7eb80e6516/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f44518a77cd916614949fae34f788c94/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f44518a77cd916614949fae34f788c94/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3ffad5a67f20a2721860747708089a0c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3ffad5a67f20a2721860747708089a0c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1afa11f5eb82ef0c542dfa7df8044935/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/1afa11f5eb82ef0c542dfa7df8044935/documentfile-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/afb1e36826f912c12358fdcf4ed61f98/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
@@ -372,6 +374,22 @@ action#android.intent.action.SEND
 ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:22:9-61
 	android:name
 		ADDED from /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:22:17-58
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
 activity#io.flutter.plugins.urllauncher.WebViewActivity
 ADDED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
 	android:exported
@@ -380,26 +398,30 @@ ADDED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~
 		ADDED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
 	android:name
 		ADDED from [:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
-activity#com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity
-ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:47
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:47
 	android:configChanges
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:10:13-59
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:11:13-44
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-102
-activity#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity
-ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:55
-	android:configChanges
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:13-59
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:55
 	android:theme
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-52
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-52
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:13-110
-receiver#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver
-ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:9-118
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:9-120
 	android:name
-		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:19-115
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-61
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
 MERGED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:12:5-79
@@ -412,30 +434,6 @@ ADDED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/
 		ADDED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:12:13-51
 	android:name
 		ADDED from [:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:11:13-68
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
-	android:name
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
-	android:name
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
-provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
-ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
-	android:grantUriPermissions
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
-	android:authorities
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
-	android:exported
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
-	android:name
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
-meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
-	android:resource
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
-	android:name
-		ADDED from [:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
 activity#com.teamapt.monnify.sdk.module.view.activity.SdkActivity
 ADDED from [com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:15:9-19:20
 	android:screenOrientation

@@ -5,8 +5,6 @@ import 'package:http/http.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:toast/toast.dart';
-import 'package:awesome_dialog/awesome_dialog.dart';
-import 'dart:io' show Platform;
 import '../bottompin.dart';
 
 class UpgradePackage extends StatefulWidget {
@@ -55,7 +53,7 @@ class _UpgradePackageState extends State<UpgradePackage> {
           'https://www.voicestelecom.com.ng/api/upgrade/?package=$package';
       print(url);
       Response response = await get(
-        url,
+        Uri.parse(url),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token ${sharedPreferences.getString("token")}'

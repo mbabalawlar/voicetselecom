@@ -190,7 +190,7 @@ class _BuyAirtimeState extends State<BuyAirtime> {
         "Platform": platform,
         "airtime_type": airtime_type
       });
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

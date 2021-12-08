@@ -49,7 +49,7 @@ class _VerifyPageState extends State<VerifyPage> {
     String url = 'https://www.voicestelecom.com.ng/api/user/';
 
     Response res = await get(
-      url,
+      Uri.parse(url),
       headers: {
         "Content-Type": "application/json",
         'Authorization': 'Token ${pref.getString("token")}'
@@ -78,7 +78,7 @@ class _VerifyPageState extends State<VerifyPage> {
       String url = 'https://www.voicestelecom.com.ng/api/verification';
       print(url);
       Response response = await get(
-        url,
+        Uri.parse(url),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token ${sharedPreferences.getString("token")}'

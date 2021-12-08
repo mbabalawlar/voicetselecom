@@ -105,7 +105,7 @@ class _Airtime_fundingHListViewState extends State<Airtime_fundingHListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://www.voicestelecom.com.ng/api/Airtime_funding/';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });

@@ -48,7 +48,7 @@ class _RessellerSIteState extends State<RessellerSIte> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/rta/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

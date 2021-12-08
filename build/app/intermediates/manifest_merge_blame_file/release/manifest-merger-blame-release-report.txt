@@ -1,7 +1,7 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.voicestelecom"
-4    android:versionCode="5"
+4    android:versionCode="6"
 5    android:versionName="4.0.0" >
 6
 7    <uses-sdk
@@ -68,214 +68,216 @@
 40-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:15:9-40
 40-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:15:15-37
 41        </intent>
-42    </queries>
-43
-44    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-44-->[:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
-44-->[:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
-45    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-45-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
-45-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:22-77
-46    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Permission will be merged into the manifest of the hosting app. -->
-46-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
-46-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:22-78
-47    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
-48    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-48-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:8:3-74
-48-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:8:20-72
-49    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
-49-->[androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:24:5-72
-49-->[androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:24:22-69
-50
-51    <application
-51-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:28:5-68:19
-52        android:name="io.flutter.app.FlutterApplication"
-52-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:29:9-57
-53        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-53-->[androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:24:18-86
-54        android:icon="@mipmap/launcher_icon"
-54-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:31:9-45
-55        android:label="voicestelecom" >
-55-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:30:9-38
-56        <activity
-56-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:32:9-60:20
-57            android:name="com.example.datavilla.MainActivity"
-57-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:33:13-41
-58            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-58-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:36:13-163
-59            android:hardwareAccelerated="true"
-59-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:37:13-47
-60            android:launchMode="singleTop"
-60-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:34:13-43
-61            android:theme="@style/LaunchTheme"
-61-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:35:13-47
-62            android:windowSoftInputMode="adjustResize" >
-62-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:38:13-55
-63
-64            <!--
-65                 Specifies an Android theme to apply to this Activity as soon as
-66                 the Android process has started. This theme is visible to the user
-67                 while the Flutter UI initializes. After that, this theme continues
-68                 to determine the Window background behind the Flutter UI.
-69            -->
-70            <meta-data
-70-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:43:13-46:17
-71                android:name="io.flutter.embedding.android.NormalTheme"
-71-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:44:15-70
-72                android:resource="@style/NormalTheme" />
-72-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:45:15-52
-73            <!--
-74                 Displays an Android View that continues showing the launch screen
-75                 Drawable until Flutter paints its first frame, then this splash
-76                 screen fades out. A splash screen is useful to avoid any visual
-77                 gap between the end of Android's launch screen and the painting of
-78                 Flutter's first frame.
-79            -->
-80            <meta-data
-80-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:52:13-55:17
-81                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-81-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:53:15-79
-82                android:resource="@drawable/launch_background" />
-82-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:54:15-61
-83
-84            <intent-filter>
-84-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:56:13-59:29
-85                <action android:name="android.intent.action.MAIN" />
-85-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:57:17-68
-85-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:57:25-66
-86
-87                <category android:name="android.intent.category.LAUNCHER" />
-87-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:58:17-76
-87-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:58:27-74
-88            </intent-filter>
-89        </activity>
-90        <!--
-91             Don't delete the meta-data below.
-92             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-93        -->
-94        <meta-data
-94-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:63:9-65:33
-95            android:name="flutterEmbedding"
-95-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:64:13-44
-96            android:value="2" />
-96-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:65:13-30
-97
-98        <activity
-98-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
-99            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
-99-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
-100            android:exported="false"
-100-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
-101            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-101-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
-102        <activity
-102-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:47
-103            android:name="com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity"
-103-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-102
-104            android:configChanges="orientation|screenSize"
-104-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:10:13-59
-105            android:theme="@style/AppTheme" />
-105-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:11:13-44
-106        <activity
-106-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:55
-107            android:name="com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity"
-107-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:13-110
-108            android:configChanges="orientation|screenSize"
-108-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:13-59
-109            android:theme="@style/ThemeTransparent" />
-109-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-52
-110
-111        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver" />
-111-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:9-118
-111-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:19-115
-112
+42        <intent>
+42-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:13:5-16:14
+43            <action android:name="android.support.customtabs.action.CustomTabsService" />
+44        </intent>
+45    </queries>
+46
+47    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+47-->[:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+47-->[:connectivity] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+48    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+49    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+49-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:8:3-74
+49-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:8:20-72
+50    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+50-->[androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:24:5-72
+50-->[androidx.biometric:biometric:1.1.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/7d22f609e6256ba8cdfff700419e8b83/biometric-1.1.0/AndroidManifest.xml:24:22-69
+51
+52    <application
+52-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:28:5-68:19
+53        android:name="io.flutter.app.FlutterApplication"
+53-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:29:9-57
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.3.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/69cf048c87f8e6c139bfc3093abb64dc/core-1.3.2/AndroidManifest.xml:24:18-86
+55        android:icon="@mipmap/launcher_icon"
+55-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:31:9-45
+56        android:label="voicestelecom" >
+56-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:30:9-38
+57        <activity
+57-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:32:9-60:20
+58            android:name="com.example.datavilla.MainActivity"
+58-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:33:13-41
+59            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+59-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:36:13-163
+60            android:hardwareAccelerated="true"
+60-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:37:13-47
+61            android:launchMode="singleTop"
+61-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:34:13-43
+62            android:theme="@style/LaunchTheme"
+62-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:35:13-47
+63            android:windowSoftInputMode="adjustResize" >
+63-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:38:13-55
+64
+65            <!--
+66                 Specifies an Android theme to apply to this Activity as soon as
+67                 the Android process has started. This theme is visible to the user
+68                 while the Flutter UI initializes. After that, this theme continues
+69                 to determine the Window background behind the Flutter UI.
+70            -->
+71            <meta-data
+71-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:43:13-46:17
+72                android:name="io.flutter.embedding.android.NormalTheme"
+72-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:44:15-70
+73                android:resource="@style/NormalTheme" />
+73-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:45:15-52
+74            <!--
+75                 Displays an Android View that continues showing the launch screen
+76                 Drawable until Flutter paints its first frame, then this splash
+77                 screen fades out. A splash screen is useful to avoid any visual
+78                 gap between the end of Android's launch screen and the painting of
+79                 Flutter's first frame.
+80            -->
+81            <meta-data
+81-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:52:13-55:17
+82                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+82-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:53:15-79
+83                android:resource="@drawable/launch_background" />
+83-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:54:15-61
+84
+85            <intent-filter>
+85-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:56:13-59:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:57:17-68
+86-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:57:25-66
+87
+88                <category android:name="android.intent.category.LAUNCHER" />
+88-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:58:17-76
+88-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:58:27-74
+89            </intent-filter>
+90        </activity>
+91        <!--
+92             Don't delete the meta-data below.
+93             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+94        -->
+95        <meta-data
+95-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:63:9-65:33
+96            android:name="flutterEmbedding"
+96-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:64:13-44
+97            android:value="2" />
+97-->/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/android/app/src/main/AndroidManifest.xml:65:13-30
+98
+99        <provider
+99-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+100            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+100-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+101            android:authorities="com.voicestelecom.flutter.image_provider"
+101-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+102            android:exported="false"
+102-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+103            android:grantUriPermissions="true" >
+103-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+104            <meta-data
+104-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+105                android:name="android.support.FILE_PROVIDER_PATHS"
+105-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+106                android:resource="@xml/flutter_image_picker_file_paths" />
+106-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+107        </provider>
+108
+109        <activity
+109-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+110            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+110-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+111            android:exported="false"
+111-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+112            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+112-->[:url_launcher] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
 113        <activity
-113-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:10:9-12:54
-114            android:name="co.paystack.flutterpaystack.AuthActivity"
-114-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:11:13-68
-115            android:theme="@style/Paystack.Dialog" />
-115-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:12:13-51
-116
-117        <provider
-117-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
-118            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-118-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
-119            android:authorities="com.voicestelecom.flutter.image_provider"
-119-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
-120            android:exported="false"
-120-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
-121            android:grantUriPermissions="true" >
-121-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
-122            <meta-data
-122-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
-123                android:name="android.support.FILE_PROVIDER_PATHS"
-123-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
-124                android:resource="@xml/flutter_image_picker_file_paths" />
-124-->[:image_picker] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
-125        </provider>
+113-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:9-17:47
+114            android:name="com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity"
+114-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-104
+115            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density"
+115-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:16:13-137
+116            android:theme="@style/AppTheme" />
+116-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+117        <activity
+117-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:18:9-20:55
+118            android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity"
+118-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:19:13-112
+119            android:theme="@style/ThemeTransparent" />
+119-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:20:13-52
+120
+121        <receiver android:name="com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver" />
+121-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:9-120
+121-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:22:19-117
+122
+123        <meta-data
+123-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:24:9-26:36
+124            android:name="io.flutter.embedded_views_preview"
+124-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:25:13-61
+125            android:value="true" />
+125-->[:flutter_inappwebview] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:26:13-33
 126
 127        <activity
-127-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:15:9-19:20
-128            android:name="com.teamapt.monnify.sdk.module.view.activity.SdkActivity"
-128-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:16:13-84
-129            android:screenOrientation="userPortrait"
-129-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:17:13-53
-130            android:theme="@style/SdkTheme" >
-130-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:18:13-44
-131        </activity> <!-- The activities will be merged into the manifest of the hosting app. -->
-132        <activity
-132-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:5-271
-133            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-133-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:15-102
-134            android:enabled="false"
-134-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:103-126
-135            android:exported="false"
-135-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:127-151
-136            android:launchMode="singleInstance"
-136-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:204-239
-137            android:process=":playcore_missing_splits_activity"
-137-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:152-203
-138            android:stateNotNeeded="true" />
-138-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:240-269
-139        <activity
-139-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:5-226
-140            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-140-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:15-95
-141            android:enabled="false"
-141-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:96-119
-142            android:exported="false"
-142-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:120-144
-143            android:stateNotNeeded="true"
-143-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:145-174
-144            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
-144-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:175-224
-145        <service
-145-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:5-145
-146            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-146-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:14-95
-147            android:enabled="false"
-147-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:96-119
-148            android:exported="true" />
-148-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:120-143
-149
-150        <provider
-150-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-151            android:name="com.squareup.picasso.PicassoProvider"
-151-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-152            android:authorities="com.voicestelecom.com.squareup.picasso"
-152-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-153            android:exported="false" />
-153-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-154        <provider
-154-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
-155            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-155-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
-156            android:authorities="com.voicestelecom.lifecycle-process"
-156-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
-157            android:exported="false"
-157-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
-158            android:multiprocess="true" />
-158-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
-159    </application>
-160
-161</manifest>
+127-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:10:9-12:54
+128            android:name="co.paystack.flutterpaystack.AuthActivity"
+128-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:11:13-68
+129            android:theme="@style/Paystack.Dialog" />
+129-->[:flutter_paystack] /Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/library_manifest/release/AndroidManifest.xml:12:13-51
+130        <activity
+130-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:15:9-19:20
+131            android:name="com.teamapt.monnify.sdk.module.view.activity.SdkActivity"
+131-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:16:13-84
+132            android:screenOrientation="userPortrait"
+132-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:17:13-53
+133            android:theme="@style/SdkTheme" >
+133-->[com.teamapt.monnify.sdk:monnify-android-sdk:1.0.21] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/bd385bac9f3434ccc76a5789b52c6d4e/jetified-monnify-android-sdk-1.0.21/AndroidManifest.xml:18:13-44
+134        </activity> <!-- The activities will be merged into the manifest of the hosting app. -->
+135        <activity
+135-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:5-271
+136            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+136-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:15-102
+137            android:enabled="false"
+137-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:103-126
+138            android:exported="false"
+138-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:127-151
+139            android:launchMode="singleInstance"
+139-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:204-239
+140            android:process=":playcore_missing_splits_activity"
+140-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:152-203
+141            android:stateNotNeeded="true" />
+141-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:12:240-269
+142        <activity
+142-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:5-226
+143            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+143-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:15-95
+144            android:enabled="false"
+144-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:96-119
+145            android:exported="false"
+145-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:120-144
+146            android:stateNotNeeded="true"
+146-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:145-174
+147            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The service will be merged into the manifest of the hosting app. -->
+147-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:13:175-224
+148        <service
+148-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:5-145
+149            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+149-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:14-95
+150            android:enabled="false"
+150-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:96-119
+151            android:exported="true" />
+151-->[com.google.android.play:core:1.8.2] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/9c4fbb26dae18df59c0d16a123552f8c/jetified-core-1.8.2/AndroidManifest.xml:16:120-143
+152
+153        <provider
+153-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+154            android:name="com.squareup.picasso.PicassoProvider"
+154-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+155            android:authorities="com.voicestelecom.com.squareup.picasso"
+155-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+156            android:exported="false" />
+156-->[com.squareup.picasso:picasso:2.71828] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/23fdbcadc373be0a339ee7d224ca6dfe/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+157        <provider
+157-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+158            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+158-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+159            android:authorities="com.voicestelecom.lifecycle-process"
+159-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+160            android:exported="false"
+160-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+161            android:multiprocess="true" />
+161-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b1046d7d48ea246b30bc3c7be7367641/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+162    </application>
+163
+164</manifest>

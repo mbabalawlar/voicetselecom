@@ -43,7 +43,7 @@ class _KycPageState extends State<KycPage> {
 
   String _gender;
 
-  File uploadimage; //variable for choosed file
+  XFile uploadimage; //variable for choosed file
 
   Future<bool> getFileSize(File file) async {
     int bytes = await file.length();
@@ -66,7 +66,8 @@ class _KycPageState extends State<KycPage> {
   }
 
   Future<void> chooseImage() async {
-    var choosedimage = await ImagePicker.pickImage(
+    final ImagePicker _picker = ImagePicker();
+    var choosedimage = await _picker.pickImage(
         source: ImageSource.gallery,
         maxHeight: 480,
         maxWidth: 640,
@@ -97,7 +98,8 @@ class _KycPageState extends State<KycPage> {
     SharedPreferences sharedPreferences = await SharedPreferences.getInstance();
 
     try {
-      List<int> imageBytes = uploadimage.readAsBytesSync();
+      List<int> imageBytes = await File(uploadimage.path).readAsBytes();
+
       String baseimage = base64Encode(imageBytes);
 
       print(({
@@ -111,7 +113,7 @@ class _KycPageState extends State<KycPage> {
         "BVN": _bvnController.text,
         "passport_photogragh": baseimage
       }));
-      String url = 'https://www.Samtechnet.com.ng/api/kyc/';
+      String url = 'https://www.voicestelecom.com.ng/api/kyc/';
       var uri = Uri.parse(url);
       var request = MultipartRequest("POST", uri);
       Map<String, String> headers = {
@@ -200,7 +202,7 @@ class _KycPageState extends State<KycPage> {
         title:
             Text("KYC", style: TextStyle(color: Colors.white, fontSize: 17.0)),
         centerTitle: true,
-        backgroundColor: Colors.green[900],
+        backgroundColor: Colors.indigo[900],
         elevation: 0.0,
       ),
       body: ModalProgressHUD(
@@ -266,8 +268,8 @@ class _KycPageState extends State<KycPage> {
                                         ]), //elese show image here
                                     child: SizedBox(
                                         height: 150,
-                                        child: Image.file(
-                                            uploadimage) //load image from file
+                                        child: Image.file(File(uploadimage
+                                            .path)) //load image from file
                                         ))),
                         uploadimage != null
                             ? Container(
@@ -277,7 +279,7 @@ class _KycPageState extends State<KycPage> {
                                   },
                                   icon: Icon(Icons.image),
                                   label: Text("Change this Passport"),
-                                  color: Colors.green[900],
+                                  color: Colors.indigo[900],
                                   colorBrightness: Brightness.dark,
                                 ),
                               )
@@ -362,6 +364,7 @@ class _KycPageState extends State<KycPage> {
                               if (value.length == 0) {
                                 return "This field is required";
                               }
+                              return null;
                             },
                             obscureText: false,
                             controller: _lastnameController,
@@ -393,6 +396,7 @@ class _KycPageState extends State<KycPage> {
                               if (value.length == 0) {
                                 return "This field is required";
                               }
+                              return null;
                             },
                             obscureText: false,
                             controller: _bvnController,
@@ -424,6 +428,7 @@ class _KycPageState extends State<KycPage> {
                               if (value.length == 0) {
                                 return "This field is required";
                               }
+                              return null;
                             },
                             obscureText: false,
                             controller: _stateController,
@@ -455,6 +460,7 @@ class _KycPageState extends State<KycPage> {
                               if (value.length == 0) {
                                 return "This field is required";
                               }
+                              return null;
                             },
                             obscureText: false,
                             controller: _lgController,
@@ -486,6 +492,7 @@ class _KycPageState extends State<KycPage> {
                               if (value.length == 0) {
                                 return "This field is required";
                               }
+                              return null;
                             },
                             readOnly: true,
                             obscureText: false,
@@ -583,8 +590,8 @@ class _KycPageState extends State<KycPage> {
                             decoration: BoxDecoration(
                                 gradient: LinearGradient(
                                   colors: [
-                                    Colors.green[400],
-                                    Colors.green[700],
+                                    Colors.indigo[800],
+                                    Colors.indigo[900],
                                   ],
                                 ),
                                 borderRadius:

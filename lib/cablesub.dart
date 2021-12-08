@@ -119,7 +119,7 @@ class _CableSState extends State<CableS> {
       String url =
           'https://www.voicestelecom.com.ng/api/validateiuc?smart_card_number=$meter&&cablename=$ab';
       print(url);
-      Response response = await get(url);
+      Response response = await get(Uri.parse(url));
 
       print(response.statusCode);
 
@@ -205,7 +205,7 @@ class _CableSState extends State<CableS> {
         "cableplan": cableplan,
         "smart_card_number": meter
       }));
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

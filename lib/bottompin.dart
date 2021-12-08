@@ -99,7 +99,7 @@ class _Bottom_pinState extends State<Bottom_pin> {
           'https://www.voicestelecom.com.ng/api/pin?pin1=$pin1&pin2=$pin2';
 
       Response response = await get(
-        url,
+        Uri.parse(url),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token ${sharedPreferences.getString("token")}'

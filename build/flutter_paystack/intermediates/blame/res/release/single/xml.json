@@ -1,22 +1,22 @@
 [
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/res/xml/standalone_badge_gravity_top_start.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_top_start.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/xml/standalone_badge.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/res/xml/standalone_badge.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/res/xml/standalone_badge.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/res/xml/standalone_badge_gravity_bottom_start.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_bottom_start.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/res/xml/standalone_badge_gravity_bottom_end.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/res/xml/standalone_badge_gravity_bottom_end.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f6cc9159d448090b0d12f967ff42736c/material-1.3.0-alpha02/res/xml/standalone_badge_offset.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/33c0314e292c277affb069ebeba3dbd8/material-1.4.0-alpha01/res/xml/standalone_badge_offset.xml"
     }
 ]

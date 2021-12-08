@@ -144,7 +144,7 @@ class _RechargeCardState extends State<RechargeCard> {
         "quantity": quantity,
         "name": name
       }));
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

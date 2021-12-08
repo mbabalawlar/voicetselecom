@@ -47,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
       String url = 'https://www.voicestelecom.com.ng/api/user/';
 
       Response res = await get(
-        url,
+        Uri.parse(url),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token $mykey'
@@ -120,7 +120,7 @@ class _SplashScreenState extends State<SplashScreen> {
     String url = 'https://www.voicestelecom.com.ng/api/alert/';
 
     Response res = await get(
-      url,
+      Uri.parse(url),
       headers: {
         "Content-Type": "application/json",
       },

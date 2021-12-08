@@ -5,9 +5,9 @@
 -keep class com.google.android.play.core.assetpacks.AssetPackExtractionService { <init>(); }
 -keep class com.google.android.play.core.common.PlayCoreDialogWrapperActivity { <init>(); }
 -keep class com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity { <init>(); }
--keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver { <init>(); }
--keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity { <init>(); }
--keep class com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity { <init>(); }
 -keep class com.squareup.picasso.PicassoProvider { <init>(); }
 -keep class com.teamapt.monnify.sdk.module.view.activity.SdkActivity { <init>(); }
 -keep class io.flutter.app.FlutterApplication { <init>(); }
@@ -123,7 +123,9 @@
 
 -keep class com.google.android.material.timepicker.TimePickerView { <init>(android.content.Context, android.util.AttributeSet); }
 
--keep class com.pichillilorenzo.flutter_inappwebview.InAppWebView.InAppWebView { <init>(android.content.Context, android.util.AttributeSet); }
+-keep class com.pichillilorenzo.flutter_inappwebview.in_app_webview.InAppWebView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.pichillilorenzo.flutter_inappwebview.pull_to_refresh.PullToRefreshLayout { <init>(android.content.Context, android.util.AttributeSet); }
 
 -keep class com.teamapt.monnify.sdk.customview.BumpedTopLayout { <init>(android.content.Context, android.util.AttributeSet); }
 

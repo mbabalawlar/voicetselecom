@@ -57,7 +57,7 @@ class _PInState extends State<PIn> {
           'https://www.voicestelecom.com.ng/api/changepin?pin1=$newpass1&pin2=$newpass2&oldpin=$oldpass';
 
       Response response = await get(
-        Uri.encodeFull(url),
+        Uri.parse(url),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token ${sharedPreferences.getString("token")}'
@@ -197,7 +197,7 @@ class _PInState extends State<PIn> {
       final endpointUrl = 'https://www.voicestelecom.com.ng/api/resetpin';
       print(endpointUrl + '?' + queryString);
       Response response = await get(
-        endpointUrl + '?' + queryString,
+        Uri.parse(endpointUrl + '?' + queryString),
         headers: {
           "Content-Type": "application/json",
           'Authorization': 'Token ${sharedPreferences.getString("token")}'

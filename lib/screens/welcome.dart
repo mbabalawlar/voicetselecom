@@ -159,7 +159,7 @@ class _WelcomePState extends State<WelcomeP> {
     try {
       String url = 'https://www.voicestelecom.com.ng/rest-auth/login/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {"Content-Type": "application/json"},
           body: jsonEncode({"username": username, "password": password}));
       print(response.body);
@@ -170,7 +170,7 @@ class _WelcomePState extends State<WelcomeP> {
         String url = 'https://www.voicestelecom.com.ng/api/user/';
 
         Response res = await get(
-          url,
+          Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${responseJson['key']}'

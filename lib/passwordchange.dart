@@ -46,7 +46,7 @@ class _ChangeState extends State<Change> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/passwordchange/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

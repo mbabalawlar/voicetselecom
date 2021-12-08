@@ -4,14 +4,14 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.bardetech",
+  "applicationId": "com.voicestelecom",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "properties": [],
-      "versionCode": 4,
+      "versionCode": 6,
       "versionName": "4.0.0",
       "enabled": true,
       "outputFile": "app-release.apk"

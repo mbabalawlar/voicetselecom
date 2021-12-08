@@ -79,7 +79,7 @@ class _ResultCheckerState extends State<ResultChecker> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/epin/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

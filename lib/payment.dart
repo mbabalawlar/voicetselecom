@@ -25,11 +25,12 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
   GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
   TextEditingController _amountController = TextEditingController();
+  var publicKey = "pk_live_2dad427f7a6f0f6e8d786ba80d43119863039222";
+  final plugin = PaystackPlugin();
 
   @override
   void initState() {
-    PaystackPlugin.initialize(
-        publicKey: "pk_live_2dad427f7a6f0f6e8d786ba80d43119863039222");
+    plugin.initialize(publicKey: publicKey);
     super.initState();
   }
 
@@ -98,7 +99,10 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
             gradient: LinearGradient(
                 begin: Alignment.centerLeft,
                 end: Alignment.centerRight,
-                colors: [Colors.green[700], Colors.green[700]])),
+                colors: [
+                  Color.fromRGBO(0, 0, 51, 1),
+                  Color.fromRGBO(0, 0, 51, 1)
+                ])),
         child: Text(
           'Pay',
           style: TextStyle(fontSize: 20, color: Colors.white),
@@ -166,7 +170,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
     Map data = {"amount": int.parse(amount) * 100, "email": email};
     String payload = json.encode(data);
     http.Response response = await http.post(
-        'https://api.paystack.co/transaction/initialize',
+        Uri.parse('https://api.paystack.co/transaction/initialize'),
         headers: headers,
         body: payload);
     print(response.body);
@@ -188,7 +192,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
             children: <Widget>[
               Icon(
                 Icons.check_box,
-                color: Colors.green[700],
+                color: Colors.green,
                 size: 90,
               ),
               SizedBox(height: 15),
@@ -220,7 +224,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
                           builder: (BuildContext context) => Dashboard()),
                       (Route<dynamic> route) => false);
                 },
-                color: Colors.green[700],
+                color: Colors.green,
                 child: Text("OK",
                     style: TextStyle(fontSize: 18, color: Colors.white)),
               )
@@ -320,7 +324,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
           int.parse(amount) * 100 + (0.02 * int.parse(amount) * 100).round()
       ..accessCode = accessCode["data"]["access_code"]
       ..email = email;
-    CheckoutResponse response = await PaystackPlugin.checkout(
+    CheckoutResponse response = await plugin.checkout(
       context,
       method:
           CheckoutMethod.selectable, // Defaults to CheckoutMethod.selectable
@@ -337,12 +341,12 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          iconTheme: IconThemeData(color: Colors.black),
-          title: Text("ATM Payment",
-              style: TextStyle(color: Colors.black, fontSize: 17.0)),
+          title: Text(
+            "Payment gateway",
+          ),
           centerTitle: true,
-          backgroundColor: Colors.white,
           elevation: 0.0,
+          backgroundColor: Color.fromRGBO(17, 35, 210, 1),
         ),
         body: ModalProgressHUD(
           child: SingleChildScrollView(
@@ -386,6 +390,10 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
                     ),
                   ),
                 ),
+                Positioned(
+                    top: -MediaQuery.of(context).size.height * .15,
+                    right: -MediaQuery.of(context).size.width * .6,
+                    child: BezierContainer())
               ],
             ),
           )),

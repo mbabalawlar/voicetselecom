@@ -177,7 +177,7 @@ class _airtimeHListViewState extends State<AirtimeHListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://www.voicestelecom.com.ng/api/topup/';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });
@@ -214,7 +214,7 @@ class _airtimeHListViewState extends State<AirtimeHListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://www.voicestelecom.com.ng/api/topup/?search=$query';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });

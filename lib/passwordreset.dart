@@ -55,7 +55,7 @@ class _ResetPasswordState extends State<ResetPassword> {
     try {
       String url = 'https://www.voicestelecom.com.ng/rest-auth/password/reset/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {"Content-Type": "application/json"},
           body: jsonEncode({
             "email": email,

@@ -41,7 +41,7 @@ class _CouponState extends State<Coupon> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/couponpayment/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

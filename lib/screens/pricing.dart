@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
+import 'dart:io' show Platform;
 
 class PricingWidget extends StatefulWidget {
   @override
@@ -8,71 +9,117 @@ class PricingWidget extends StatefulWidget {
 
 class _PricingWidgetState extends State<PricingWidget> {
   bool isLoading;
-  InAppWebViewController webView;
+  final GlobalKey webViewKey = GlobalKey();
+
+  InAppWebViewController webViewController;
+  InAppWebViewGroupOptions options = InAppWebViewGroupOptions(
+      crossPlatform: InAppWebViewOptions(
+        useShouldOverrideUrlLoading: true,
+        mediaPlaybackRequiresUserGesture: false,
+      ),
+      android: AndroidInAppWebViewOptions(
+        useHybridComposition: true,
+      ),
+      ios: IOSInAppWebViewOptions(
+        allowsInlineMediaPlayback: true,
+      ));
+
+  PullToRefreshController pullToRefreshController;
+  String url = "";
+  double progress = 0;
+  final urlController = TextEditingController();
 
   @override
   void initState() {
     super.initState();
     isLoading = true;
+
+    pullToRefreshController = PullToRefreshController(
+      options: PullToRefreshOptions(
+        color: Colors.blue,
+      ),
+      onRefresh: () async {
+        if (Platform.isAndroid) {
+          webViewController?.reload();
+        } else if (Platform.isIOS) {
+          webViewController?.loadUrl(
+              urlRequest: URLRequest(url: await webViewController?.getUrl()));
+        }
+      },
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Product Pricing",
-            style: TextStyle(color: Colors.black, fontSize: 17.0)),
-        iconTheme: IconThemeData(color: Colors.black),
-        centerTitle: true,
-        backgroundColor: Colors.white,
-        elevation: 0.0,
-      ),
-      // We're using a Builder here so we have a context that is below the Scaffold
-      // to allow calling Scaffold.of(context) so we can show a snackbar.
-      body: Stack(
-        children: <Widget>[
-          Builder(builder: (BuildContext context) {
-            return InAppWebView(
-              initialUrl:
-                  "https://www.voicestelecom.com.ng/pricing/?webview=true",
-              initialHeaders: {},
-              initialOptions: InAppWebViewGroupOptions(
-                crossPlatform: InAppWebViewOptions(
-                  debuggingEnabled: true,
-                ),
-              ),
-              onWebViewCreated: (InAppWebViewController controller) {
-                webView = controller;
+        appBar: AppBar(
+          title: Text("Support Chat",
+              style: TextStyle(color: Colors.black, fontSize: 17.0)),
+          iconTheme: IconThemeData(color: Colors.black),
+          centerTitle: true,
+          backgroundColor: Colors.white,
+          elevation: 0.0,
+        ),
+        // We're using a Builder here so we have a context that is below the Scaffold
+        // to allow calling Scaffold.of(context) so we can show a snackbar.
+        body: Stack(
+          children: [
+            InAppWebView(
+              key: webViewKey,
+              initialUrlRequest: URLRequest(
+                  url: Uri.parse("https://www.voicestelecom.com.ng/pricing")),
+              initialOptions: options,
+              pullToRefreshController: pullToRefreshController,
+              onWebViewCreated: (controller) {
+                webViewController = controller;
               },
-              onLoadStart: (InAppWebViewController controller, String url) {
+              onLoadStart: (controller, url) {
                 setState(() {
-                  isLoading = true;
+                  this.url = url.toString();
+                  urlController.text = this.url;
                 });
               },
-              onLoadStop:
-                  (InAppWebViewController controller, String url) async {
+              androidOnPermissionRequest:
+                  (controller, origin, resources) async {
+                return PermissionRequestResponse(
+                    resources: resources,
+                    action: PermissionRequestResponseAction.GRANT);
+              },
+              onLoadStop: (controller, url) async {
+                pullToRefreshController.endRefreshing();
+                setState(() {
+                  this.url = url.toString();
+                  urlController.text = this.url;
+                });
                 await controller.injectJavascriptFileFromAsset(
                     assetFilePath: "assets/js/main.js");
-                // 30
+              },
+              onLoadError: (controller, url, code, message) {
+                pullToRefreshController.endRefreshing();
+              },
+              onProgressChanged: (controller, progress) {
+                if (progress == 100) {
+                  pullToRefreshController.endRefreshing();
+                }
                 setState(() {
-                  //this.url = url;
-                  print('Page finished loading: $url');
-                  setState(() {
-                    isLoading = false;
-                  });
+                  this.progress = progress / 100;
+                  urlController.text = this.url;
                 });
               },
-              onProgressChanged:
-                  (InAppWebViewController controller, int progress) {
+              onUpdateVisitedHistory: (controller, url, androidIsReload) {
                 setState(() {
-                  //this.progress = progress / 100;
+                  this.url = url.toString();
+                  urlController.text = this.url;
                 });
               },
-            );
-          }),
-          isLoading ? Center(child: CircularProgressIndicator()) : Container(),
-        ],
-      ),
-    );
+              onConsoleMessage: (controller, consoleMessage) {
+                print(consoleMessage);
+              },
+            ),
+            progress < 1.0
+                ? LinearProgressIndicator(value: progress)
+                : Container(),
+          ],
+        ));
   }
 }

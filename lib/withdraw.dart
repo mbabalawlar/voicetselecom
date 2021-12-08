@@ -51,7 +51,7 @@ class _withdrawState extends State<Withdraw> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/withdraw/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'

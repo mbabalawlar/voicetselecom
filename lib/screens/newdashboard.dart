@@ -226,7 +226,7 @@ class _DashboardState extends State<Dashboard> {
     String url = 'https://www.voicestelecom.com.ng/api/user/';
 
     Response res = await get(
-      url,
+      Uri.parse(url),
       headers: {
         "Content-Type": "application/json",
         'Authorization': 'Token ${pref.getString("token")}'
@@ -255,7 +255,7 @@ class _DashboardState extends State<Dashboard> {
     });
 
     Response res = await get(
-      url,
+      Uri.parse(url),
       headers: {
         "Content-Type": "application/json",
         'Authorization': 'Token ${pref.getString("token")}'

@@ -60,7 +60,7 @@ class _WalletSummaryState extends State<WalletSummary> {
     sharedPreferences = await SharedPreferences.getInstance();
     try {
       final url = 'https://www.voicestelecom.com.ng/api/Wallet_summary/';
-      final response = await get(url, headers: {
+      final response = await get(Uri.parse(url), headers: {
         "Content-Type": "application/json",
         'Authorization': 'Token ${sharedPreferences.getString("token")}'
       }).timeout(const Duration(seconds: 30));

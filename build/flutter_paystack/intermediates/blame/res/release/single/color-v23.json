@@ -1,38 +1,38 @@
 [
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_switch_track.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_edittext.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_default.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_tint_spinner.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/133a69c4bb8c02373771579de1ec10d6/appcompat-1.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/3894ce09be07113540edfc69828d559f/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
     }
 ]

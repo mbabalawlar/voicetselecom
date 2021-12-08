@@ -1,18 +1,18 @@
 [
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f8192dc2e59c67179b5d06625fd141c3/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b7dcf2a2a6abe095e6753ce29d105c24/core-1.3.1/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f8192dc2e59c67179b5d06625fd141c3/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b7dcf2a2a6abe095e6753ce29d105c24/core-1.3.1/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f8192dc2e59c67179b5d06625fd141c3/core-1.2.0/res/layout-v21/notification_action.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b7dcf2a2a6abe095e6753ce29d105c24/core-1.3.1/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/Users/msorg_developers/Library/Mobile Documents/com~apple~CloudDocs/App_development/VoicesTelecom/build/flutter_paystack/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/f8192dc2e59c67179b5d06625fd141c3/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/Users/msorg_developers/.gradle/caches/transforms-2/files-2.1/b7dcf2a2a6abe095e6753ce29d105c24/core-1.3.1/res/layout-v21/notification_action_tombstone.xml"
     }
 ]

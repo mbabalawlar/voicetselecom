@@ -101,7 +101,7 @@ class _DataHListViewState extends State<DataHListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://www.voicestelecom.com.ng/api/data/';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });
@@ -138,7 +138,7 @@ class _DataHListViewState extends State<DataHListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://voicestelecom.com.ng/api/data/?search=$query';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });

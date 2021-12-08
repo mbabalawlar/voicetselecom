@@ -84,7 +84,7 @@ class _BulksmshistoryListViewState extends State<BulksmshistoryListView> {
     sharedPreferences = await SharedPreferences.getInstance();
 
     final url = 'https://voicestelecom.com.ng/api/sendsms/';
-    final response = await get(url, headers: {
+    final response = await get(Uri.parse(url), headers: {
       "Content-Type": "application/json",
       'Authorization': 'Token ${sharedPreferences.getString("token")}'
     });

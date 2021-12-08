@@ -127,7 +127,7 @@ class _LoginPageState extends State<LoginPage> {
     try {
       String url = 'https://www.voicestelecom.com.ng/rest-auth/login/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {"Content-Type": "application/json"},
           body: jsonEncode({"username": username, "password": password}));
 
@@ -137,7 +137,7 @@ class _LoginPageState extends State<LoginPage> {
         String url = 'https://www.voicestelecom.com.ng/api/user/';
 
         Response res = await get(
-          url,
+          Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${responseJson['key']}'
@@ -264,7 +264,7 @@ class _LoginPageState extends State<LoginPage> {
     var phonesize = MediaQuery.of(context).size;
     return Scaffold(
         key: _scaffoldKey,
-        resizeToAvoidBottomInset: false,
+        resizeToAvoidBottomInset: true,
         backgroundColor: Colors.grey.shade200,
         body: ModalProgressHUD(
           child: SafeArea(

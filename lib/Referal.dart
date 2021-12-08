@@ -63,7 +63,7 @@ class _MyReferalState extends State<MyReferal> {
 
     try {
       final url = 'https://www.voicestelecom.com.ng/api/referal/';
-      final response = await get(url, headers: {
+      final response = await get(Uri.parse(url), headers: {
         "Content-Type": "application/json",
         'Authorization': 'Token ${sharedPreferences.getString("token")}'
       }).timeout(const Duration(seconds: 30));

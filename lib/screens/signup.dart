@@ -71,7 +71,7 @@ class _SignupPageState extends State<SignupPage> {
     try {
       String url = 'https://www.voicestelecom.com.ng/api/registration/';
 
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {"Content-Type": "application/json"},
           body: jsonEncode({
             "username": username,

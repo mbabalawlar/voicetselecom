@@ -207,7 +207,7 @@ class _AirtimeFunding_ComfirmState extends State<AirtimeFunding_Comfirm> {
                 height: 20,
               ),
               Text(
-                "Dial *223*5555*${topuppercent[widget.network]["phone"]}*${widget.amount}*${widget.amount}#  to send the Airtime , Change 5555 to your pin if your already have pin",
+                "Dial *223*5555*${widget.amount}*${topuppercent[widget.network]["phone"]}#  to send the Airtime , Change 5555 to your pin if your already have pin",
                 style: TextStyle(fontWeight: FontWeight.w500),
               ),
             ],
@@ -258,7 +258,7 @@ class _AirtimeFunding_ComfirmState extends State<AirtimeFunding_Comfirm> {
         "mobile_number": widget.phone,
         "Platform": platform
       }));
-      Response response = await post(url,
+      Response response = await post(Uri.parse(url),
           headers: {
             "Content-Type": "application/json",
             'Authorization': 'Token ${sharedPreferences.getString("token")}'
